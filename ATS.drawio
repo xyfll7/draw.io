@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-02-12T05:39:47.673Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="ce9PIul1ZUBWDI82KAoO" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-12T05:50:21.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="aY0VEObbkVuVGBPLrNPS" version="16.5.6" type="github">
   <diagram id="CTRHQpLJLAgT-PBREwW2" name="Page-1">
     <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WTsPHk34UFrc1bAdrFl5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WTsPHk34UFrc1bAdrFl5-1" target="WTsPHk34UFrc1bAdrFl5-2">
+        <mxCell id="WTsPHk34UFrc1bAdrFl5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;curved=1;" edge="1" parent="1" source="WTsPHk34UFrc1bAdrFl5-1" target="WTsPHk34UFrc1bAdrFl5-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WTsPHk34UFrc1bAdrFl5-1" value="ATS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WTsPHk34UFrc1bAdrFl5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WTsPHk34UFrc1bAdrFl5-2" target="WTsPHk34UFrc1bAdrFl5-4">
+        <mxCell id="WTsPHk34UFrc1bAdrFl5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="WTsPHk34UFrc1bAdrFl5-2" target="WTsPHk34UFrc1bAdrFl5-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WTsPHk34UFrc1bAdrFl5-2" value="avatar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WTsPHk34UFrc1bAdrFl5-4" value="这个问题暂时先不解决，等api到期了再解决" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="40" width="250" height="40" as="geometry" />
+          <mxGeometry x="380" y="40" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
