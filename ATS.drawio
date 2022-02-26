@@ -1,14 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T05:03:14.771Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="B59w0cXoIgSb_GzaWtoG" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T06:44:18.643Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="MjQhcdCigNwK6c--ORlD" version="16.5.6" type="github">
   <diagram id="CTRHQpLJLAgT-PBREwW2" name="Page-1">
     <mxGraphModel dx="2253" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uCTSqyvvW0YgDlBtNeHN-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-827" width="157" height="40" as="geometry" />
+          <mxGeometry x="-492" y="20" width="157" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NGdW_WNBAsIHHRRR9Pun-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uCTSqyvvW0YgDlBtNeHN-2" target="uCTSqyvvW0YgDlBtNeHN-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NGdW_WNBAsIHHRRR9Pun-4" value="团长信息" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="200" width="160" height="170" as="geometry">
+            <mxRectangle x="-680" y="200" width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGdW_WNBAsIHHRRR9Pun-5" value="+姓名&#xa;+身份证号&#xa;+地址&#xa;+详细地址&#xa;· 坐标&#xa;· openid&#xa;· unionid" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="NGdW_WNBAsIHHRRR9Pun-4">
+          <mxGeometry y="30" width="160" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
